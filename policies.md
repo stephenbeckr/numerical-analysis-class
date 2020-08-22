@@ -100,6 +100,18 @@ The overall grade may be **curved** as appropriate, but note that there is no se
 
 We will use [github](https://github.com/stephenbeckr/numerical-analysis-class) for public content (notes, demos, syllabus), and use CU's default LMT **Canvas** for private content like grades and homework solutions.  Canvas will also be used to organize things, like the **pre-recorded lectures**, comments made via **gradescope**, and Q&A forums via **piazza**.
 
+## Online behavior
+On zoom, please have your webcam on if at all possible
+- Valid reasons for not having the camera on: to protect the privacy of your family or roommate, if you cannot have a virtual background
+- Invalid reason: you don't feel like it, or you didn't wash your hair).
+
+We have the same standards of behavior as we would in a classroom: appropriate attire, appropriate and not distracting virtual backgrounds, verbal and chat remarks should be respectful, etc.  Real-world backgrounds should be appropriate and professional (please, no drugs or alcohol behind you).
+
+It's always important to have respectful remarks, and even more so in an online setting, since it is easier to get carried away with chat comments since you cannot see the effect on other people.
+
+If we enable private chat on zoom, remember that the zoom host can later see even "private" chats. Inappropriate or inconsiderate remarks, even on private chats, are not allowed.
+
+
 ## Dropping the Course
 Advice from your department advisor is recommended before dropping any course. After 11:59 PM Sept. 9, dropping a course results in a "W" on your transcript and you’ll be billed for tuition. After 11:59 PM Oct. 30, dropping the course is possible only with a petition approved by the Dean’s office.
 
