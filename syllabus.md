@@ -1,7 +1,7 @@
 # Syllabus for APPM/MATH 4650 Intermediate Numerical Analysis
 
 Fall 2020, Instructor: Stephen Becker (Applied Math dept)
-This semester, the course is online-only due to COVID-19
+This semester, the course is remote-only due to COVID-19
 
 ### Official course description
 Focuses on numerical solution of nonlinear equations, interpolation, methods in numerical integration, numerical solution of linear systems, and matrix eigenvalue problems. Stresses significant computer applications and software. Department enforced prerequisite: knowledge of a programming language.
