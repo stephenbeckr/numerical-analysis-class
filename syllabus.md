@@ -72,9 +72,17 @@ For reference, chapters 7--12, which are *not* covered in this first semester co
 # Detailed list of topics
 i.e., what we actually covered.  Topics listed for dates in the future are just estimates.
 
-### Week 1, Mon Aug 24--28 2020
-- TBD
-- TBD
-- TBD
+### Week 1, Aug 24-28 2020
+- Mon: "Calculus Review" (20 min; [notes](Notes/Ch1_CalcReview.pdf)) and "Floating Point Numbers" (30 min; [notes](Notes/Ch1_FloatingPoint.pdf))
+  - [Ch1_SymbolicTaylorSeries](Demos/Ch1_SymbolicTaylorSeries.ipynb) demo
+- Wed: "Conditioning" (13 min; [notes](Notes/Ch1_ConditionNumber.pdf)) and "Stability" (13 min; [notes](Notes/Ch1_Stability.pdf)) and "Big-O notation" (26 min; [notes](Notes/Ch1_BigO_notation.pdf))
+  - [Ch1_DataTypes](Demos/Ch1_DataTypes.ipynb) demo
+  - [Ch1_ExponentialSummation](Demos/Ch1_ExponentialSummation.ipynb) demo (try the *student* branch version first)
+- Fri: "Polynomials and Horner's Rule" (18 min; [notes](Notes/Ch1_PolynomiallConditioning_HornersRule.pdf)) and "Rates of convergence" (9 min; [notes](Notes/Ch1_ConvergenceRates.pdf))
+  - [Ch1_Stability_simple](Demos/Ch1_Stability_simple.ipynb) demo (evaluating a quadratic, and relative error; try the *student* branch version first)
+  - [Ch1_QuadraticFormula](Demos/Ch1_QuadraticFormula.ipynb) demo (quadratic root finding; try the *student* branch version first)
+  - Optional: [Ch1_Extra_Conditioning](Demos/Ch1_Extra_Conditioning.ipynb) is a summary of ch 1 material from Jed Brown's course
+  - Optional: [Ch1_RatesOfConvergence](Demos/Ch1_RatesOfConvergence.ipynb)
 
-### Week 2
+### Week 2, Aug 31-Sep 4 2020
+- Mon: "Intro to scalar root-finding and optimization" (TBD)
