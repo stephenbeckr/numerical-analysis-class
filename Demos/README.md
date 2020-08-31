@@ -5,3 +5,6 @@ List of Demos:
 
 Week 1
 - TBD
+
+
+Which demos we did are listed on the [syllabus](../syllabus.md#detailed-list-of-topics)
