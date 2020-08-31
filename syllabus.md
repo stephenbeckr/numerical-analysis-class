@@ -72,7 +72,7 @@ For reference, chapters 7--12, which are *not* covered in this first semester co
 # Detailed list of topics
 i.e., what we actually covered.  Topics listed for dates in the future are just estimates.
 
-### Week 1, Aug 24-28 2020
+### Week 1, Aug 24-28 2020.  Chapter 1
 - Mon: "Calculus Review" (20 min; [notes](Notes/Ch1_CalcReview.pdf)) and "Floating Point Numbers" (30 min; [notes](Notes/Ch1_FloatingPoint.pdf))
   - [Ch1_SymbolicTaylorSeries](Demos/Ch1_SymbolicTaylorSeries.ipynb) demo
 - Wed: "Conditioning" (13 min; [notes](Notes/Ch1_ConditionNumber.pdf)) and "Stability" (13 min; [notes](Notes/Ch1_Stability.pdf)) and "Big-O notation" (26 min; [notes](Notes/Ch1_BigO_notation.pdf))
@@ -84,5 +84,8 @@ i.e., what we actually covered.  Topics listed for dates in the future are just 
   - Optional: [Ch1_Extra_Conditioning](Demos/Ch1_Extra_Conditioning.ipynb) is a summary of ch 1 material from Jed Brown's course
   - Optional: [Ch1_RatesOfConvergence](Demos/Ch1_RatesOfConvergence.ipynb)
 
-### Week 2, Aug 31-Sep 4 2020
-- Mon: "Intro to scalar root-finding and optimization" (TBD)
+[//]: # ( The Friday notebooks went much better than others. )
+
+### Week 2, Aug 31-Sep 4 2020.  Chapter 1
+- Mon: "Intro to scalar root-finding" (18 min; [notes](Notes/Ch2_IntroRootfinding.pdf)), "Intro to scalar optimization" (10 min; [notes](Notes/Ch2_IntroOptimization.pdf)), "Condition number of root-finding" (14 min; [notes](Notes/Ch2_AnalysisRootFindingConditionNumber.pdf)), "multiple roots" (8 min; [notes](Notes/Ch2_MultipleRoots.pdf))
+  - Finish up Friday demos
