@@ -86,6 +86,17 @@ i.e., what we actually covered.  Topics listed for dates in the future are just 
 
 [//]: # ( The Friday notebooks went much better than others. )
 
-### Week 2, Aug 31-Sep 4 2020.  Chapter 1
+### Week 2, Aug 31-Sep 4 2020.  Chapter 1 and 2
 - Mon: "Intro to scalar root-finding" (18 min; [notes](Notes/Ch2_IntroRootfinding.pdf)), "Intro to scalar optimization" (10 min; [notes](Notes/Ch2_IntroOptimization.pdf)), "Condition number of root-finding" (14 min; [notes](Notes/Ch2_AnalysisRootFindingConditionNumber.pdf)), "multiple roots" (8 min; [notes](Notes/Ch2_MultipleRoots.pdf))
   - Finish up Friday demos
+- Wed: "Bisection Method" (3 videos of 9, 8 and 4 minutes; [notes](Notes/Ch2_BisectionMainIdea.pdf))
+  - [Ch2_Intersection_GraphingCalculator.ipynb](Demos/Ch2_Intersection_GraphingCalculator.ipynb) demo
+- Fri: "Fixed Point Iteration" (3 videos of 9, 12 and 17 minutes; [notes](Notes/Ch2_FixedPointIteration.pdf))
+  - [Ch2_IntroToBisection.ipynb](Demos/Ch2_IntroToBisection.ipynb) demo
+  - [HowToCheckYourAnswerUsingExtendedPrecision.ipynb](Demos/HowToCheckYourAnswerUsingExtendedPrecision.ipynb) and [HowToCheckYourAnswerUsingExtendedPrecision.m](Demos/HowToCheckYourAnswerUsingExtendedPrecision.m)
+
+### Week 3, Sep 9-Sep 11 2020.  Chapter 2
+- Mon (no lecture due to Labor Day)
+- Wed: "Newton's Method" (2 videos of 16 and 9.5 minutse; [notes](Notes/Ch2_NewtonsMethod.pdf))
+  - [Ch2_FixedPointPlots.ipynb](Demos/Ch2_FixedPointPlots.ipynb) demo which uses a nice [geogebra online cobweb plotting app](https://www.geogebra.org/m/uvsfvNDt)
+- Fri:
