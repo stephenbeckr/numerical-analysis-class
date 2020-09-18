@@ -32,7 +32,11 @@ or to look at solution manuals
 
 ### Python
 
-Tips for exporting jupyter notebook code to a PDF: try `nbconvert` which requires [`pandoc`](https://pandoc.org/installing.html). You can do this on [Colab](https://colab.research.google.com/), following the [instructions here](https://stackoverflow.com/a/54191922) (but note that you may need to add a backslash before any white space when you run commands, e.g., change a command like
+Tips for exporting jupyter notebook code to a PDF: 
+
+- You can try this [Notebook to PDF conversion website](https://htmtopdf.herokuapp.com/ipynbviewer/) that some of our students have had good luck with
+
+- Or try `nbconvert` which requires [`pandoc`](https://pandoc.org/installing.html). You can do this on [Colab](https://colab.research.google.com/), following the [instructions here](https://stackoverflow.com/a/54191922) (but note that you may need to add a backslash before any white space when you run commands, e.g., change a command like
 
 `!cp drive/My Drive/Colab Notebooks/Untitled.ipynb ./`
 to
