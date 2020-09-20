@@ -3,7 +3,9 @@
 Undergraduate numerical analysis, first semester, APPM 4650. University of Colorado Boulder, Fall 2020.
 
 ## Details in a nutshell
-This is a flipped class. Students are responsible for watching pre-recorded videos made by the instructor.  During the scheduled class time, students must attend the live zoom session for at least 10 minutes (for at least 90% of the lectures); class time will be used to go over homework answers, run live demos, have students work on small projects/demos, and answer questions.  Two TAs will be on zoom to help assist as well.
+This is a flipped class. Students are responsible for watching pre-recorded videos made by the instructor.  During the scheduled class time, ~~students must attend the live zoom session for at least 10 minutes~~ (for at least 90% of the lectures); class time will be used to go over homework answers, run live demos, have students work on small projects/demos, and answer questions.  Two TAs will be on zoom to help assist as well.
+
+**Week 4 update** Students no longer need to attend 10 minutes of class; this participation grade is being replaced by the PlayPosit video quizzes.
 
 ## Instructor and contact Information
 
@@ -12,9 +14,9 @@ This is a flipped class. Students are responsible for watching pre-recorded vide
 
 ## Teaching Assistant (TA)
 
-- Daniel Ferguson is the graduate student TA. He is a PhD student in the Applied Math department.
-- Andy Starr is an undergraduate TA (he will join the afternoon lectures). He is a Mech E and Applied Math major.
-- Nick Elsasser is an undergraduate TA (he will join the morning lectures). He is a CS major.
+- Daniel Ferguson is the graduate student TA. He is a PhD student in the Applied Math department.  He's a Matlab specialist, but also knows Python.
+- Andy Starr is an undergraduate TA (he will join the afternoon lectures). He is a Mech E and Applied Math major. He's a Matlab specialist, but also knows Python.
+- Nick Elsasser is an undergraduate TA (he will join the morning lectures). He is a CS major.  He's a Python specialist, but also knows Matlab.
 
 ## Meeting times
 There are two different sections of this course, both online.  We suggest you attend the zoom session of your assigned section, but if necessary, it is OK for you to attend the zoom session for the other section.
@@ -22,7 +24,13 @@ There are two different sections of this course, both online.  We suggest you at
 - Afternoon section, 4650-002: 1:50 to 2:40 PM
 
 ## Office Hours
-TBD
+Prof. Becker's office hours:
+- 7:30 to 8:00 AM Wed (intended for students in different time zones)
+- 2:40 to 3:40 PM Wed
+- 1:00 to 2:00 PM Thurs
+- 4:00 to 4:30 PM Thurs
+
+The TAs do not have office hours, but at least 2 TAs attend every class, and since this is a flipped class, you can ask them questions during the class time, so this functions like office hours.
 
 ## Course Information
 See the separate [syllabus document](syllabus.md).
@@ -87,8 +95,9 @@ On homeworks, you are free to **collaborate** with other students, and to use re
 Cheating is not usually an issue in this class, and I have faith that students will continue to act appropriately.
 
 ## Grading
-- 10% for participation (attend 90% of lectures, for at least 10 minutes).  
-  - If you miss a class for a legitimate reason (sickness, important travel), you can be excused.  Doctor's notes are not needed to document illness (traveling to the student health center when only mildly sick can in fact be dangerous, as you spread disease to very sick people).
+- 10% for participation (~~attend 90% of lectures, for at least 10 minutes~~).  
+  - ~~If you miss a class for a legitimate reason (sickness, important travel), you can be excused.  Doctor's notes are not needed to document illness (traveling to the student health center when only mildly sick can in fact be dangerous, as you spread disease to very sick people).~~
+  - **Update** As of week 4, the participation grade is now determined by filling out the PlayPosit quizzes that are wrapped around some of the posted videos. Access these links via Canvas.  You still only need to fill out 90% of these (the 90% will apply to combined attendance from weeks 1--3 and PlayPosit for the rest of the weeks)
 - 30% Homework.
   - Late homework is not accepted, but you are allowed one free "dropped" homework. Your lowest-scoring homework will be automatically dropped.
 - 30% Midterms (2 midterms, each 15%)
@@ -98,7 +107,7 @@ The overall grade may be **curved** as appropriate, but note that there is no se
 
 ## Course website
 
-We will use [github](https://github.com/stephenbeckr/numerical-analysis-class) for public content (notes, demos, syllabus), and use CU's default LMT **Canvas** for private content like grades and homework solutions.  Canvas will also be used to organize things, like the **pre-recorded lectures**, comments made via **gradescope**, and Q&A forums via **piazza**.
+We will use [github](https://github.com/stephenbeckr/numerical-analysis-class) for public content (notes, demos, syllabus), and use CU's default LMT **Canvas** for private content like grades and homework solutions.  Canvas will also be used to organize things, like the **pre-recorded lectures** (posted as unlisted on Youtube, with links in Canvas), comments made via **gradescope**, and Q&A forums via **piazza**.
 
 ## Online behavior
 On zoom, please have your webcam on if at all possible

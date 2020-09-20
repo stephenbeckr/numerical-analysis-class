@@ -9,12 +9,14 @@ Focuses on numerical solution of nonlinear equations, interpolation, methods in 
 Requires a **prerequisite** course of MATH 3430 or APPM 2360 and APPM 3310 (minimum grade C-).
 
 ### Related courses at CU
-This course is similar to [CSCI-3656 Numerical Computation](https://github.com/cu-numcomp/numcomp-class/) but has a bit more analysis (and more math prerequisites), fewer implementation details, and similar but not identical topics.
+This course is similar to the CS department's [CSCI-3656 Numerical Computation](https://github.com/cu-numcomp/numcomp-class/) but has a bit more analysis (and more math prerequisites), fewer implementation details, and similar but not identical topics.
+
+This APPM/MATH 4650 course is cross-listed in both the Applied Math and Math departments. It is offered every semester, being taught in the fall by an Applied Math faculty (usually 2 sections) and in the spring by a Math faculty (usually 1 section), and sometimes it is offered in the summer as well.  The second semester course is 4660, taught in spring by Applied Math; about half the students in 4650 take the second semester course.
 
 ### Programming
 Homeworks will involve by mathematical analysis and programming.
 
-Students are expected to already know how to program.  We encourage using Python and Matlab; Julia is another good choice though we will not be using it explicitly.  For homework assignments, usually the deliverable is the outcome of some code, so therefore the student may choose any reasonable programming language. However, we will be doing demonstrations in Python and/or Matlab (and the instructor/TA are best at debugging Python and Matlab).  Many of our demonstrations will be using [github](http://github.com) in conjunction with [colab](https://colab.research.google.com/)
+Students are expected to already know how to program.  We encourage using Python and Matlab; Julia is another good choice though we will not be using it explicitly.  For homework assignments, usually the deliverable is the outcome of some code, so therefore the student may choose any reasonable programming language. However, we will be doing demonstrations in Python and/or Matlab (and the instructor/TA are best at debugging Python and Matlab).  Many of our demonstrations will be using [github](http://github.com) in conjunction with [python via colab](https://colab.research.google.com/).
 
 ### Principal Topics
 - Floating point numbers
@@ -69,6 +71,8 @@ For reference, chapters 7--12, which are *not* covered in this first semester co
 12. Numerical Solutions to Partial Differential Equations
 
 
+
+
 # Detailed list of topics
 i.e., what we actually covered.  Topics listed for dates in the future are just estimates.
 
@@ -97,6 +101,52 @@ i.e., what we actually covered.  Topics listed for dates in the future are just 
 
 ### Week 3, Sep 9-Sep 11 2020.  Chapter 2
 - Mon (no lecture due to Labor Day)
-- Wed: "Newton's Method" (2 videos of 16 and 9.5 minutse; [notes](Notes/Ch2_NewtonsMethod.pdf))
+- Wed: "Newton's Method" (2 videos of 16 and 9.5 minutes; [notes](Notes/Ch2_NewtonsMethod.pdf))
   - [Ch2_FixedPointPlots.ipynb](Demos/Ch2_FixedPointPlots.ipynb) demo which uses a nice [geogebra online cobweb plotting app](https://www.geogebra.org/m/uvsfvNDt)
-- Fri:
+- Fri: "Newton's Method Variants" (secant method, etc.) (2 videos of 21 and 17.5 minutes; [notes](Notes/Ch2_NewtonsMethodVariants.pdf))
+  - [Ch2_NewtonsMethod.ipynb](Demos/Ch2_NewtonsMethod.ipynb) demo
+
+### Week 4, Sep 14-Sep 18 2020. Chapter 2 and 3
+- Mon: "Aitken Extrapolation" (16 min video; [notes](Notes/Ch2_AitkenExtrapolation.pdf)) and "Zeros of Polynomials and Muller's Method" (8.5 min; [notes](Notes/Ch2_ZerosPolynomialMullers.pdf))
+  - Note: we switched attendance models, and now use PlayPosit quizzes to record an attendance grade
+  - Demo: finish the Newton's method demo from Friday
+- Wed: "Intro to Interpolation" (24 min video; [notes](Notes/Ch3_IntroInterpolation.pdf)) and "Lagrange interpolation" (13 min video; [notes](Notes/Ch3_LagrangeAndBarycentricInterpolation.pdf))
+  - [Ch2_AitkenExtrapolation.ipynb](Demos/Ch2_AitkenExtrapolation.ipynb) demo
+- Fri: "Barycentric Interpolation formula" (17 min video; [same notes as before](Notes/Ch3_LagrangeAndBarycentricInterpolation.pdf)) and "Lagrange Interpolation Error Bounds" (10 min video; [same notes as before](Notes/Ch3_LagrangeAndBarycentricInterpolation.pdf)) and "Divided Differences, part 1" (11.5 min video; [notes](Notes/Ch3_DividedDifferences.pdf))
+  - [Ch3_PolynomialInterpolation.ipynb](Demos/Ch3_PolynomialInterpolation.ipynb) demo, which also links to other demos
+
+### Week 5, Sep 21-24 2020. Chapter 3
+- Mon: "Divided Differences, part 2" (18 min; [same notes as before](Notes/Ch3_DividedDifferences.pdf))
+  - demo TBD
+- Wed: TBD
+- Fri: Review / Q&A for midterm.  Take-home midterm handed out
+
+
+
+
+# Subjects on the midterms and final
+
+## Midterm 1
+The high-level set of topics is anything we've discussed in class up to and including the "Divided Differences" video of Monday Sept 21.
+
+Below are specific chapters (in Burden and Faires 9th or 10th edition) that are covered:
+- Chapter 1
+  - 1.1 review of calc
+  - 1.2 round-off errors
+  - 1.3 algorithms and convergence
+- Chapter 2
+  - 2.1 bisection method
+  - 2.2 fixed point iteration
+  - 2.3 Newton's method
+  - 2.4 error analysis for iterative methods
+  - 2.5 accelerating convergence [*skip* Steffensen's method]
+  - 2.6 zeros of polynomials [fundamental theorem of algebra, but *skip* Horner's method as presented in the book (but you should know it as presented in the notes and HW), and *skip* Muller's method]
+- Chapter 3
+  - 3.1 interpolation and the Lagrange polynomial (*skip* 3.2 on Neville's method)
+  - 3.3 divided differences
+
+## Midterm 2
+TBD
+
+## Final Exam
+TBD
