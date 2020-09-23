@@ -133,7 +133,7 @@ Below are specific chapters (in Burden and Faires 9th or 10th edition) that are 
 - Chapter 1
   - 1.1 review of calc
   - 1.2 round-off errors
-  - 1.3 algorithms and convergence
+  - 1.3 algorithms and convergence, in particular big-O notation
 - Chapter 2
   - 2.1 bisection method
   - 2.2 fixed point iteration
