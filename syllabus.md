@@ -121,6 +121,8 @@ i.e., what we actually covered.  Topics listed for dates in the future are just 
 - Wed: TBD
 - Fri: Review / Q&A for midterm.  Take-home midterm handed out
 
+### Week 6, Sep 28-Oct 2 2020. Chapter 4
+
 
 
 
