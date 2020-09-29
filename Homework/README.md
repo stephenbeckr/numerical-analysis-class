@@ -7,6 +7,7 @@ Most of the homework assignments are here, but homework **solutions** are on Can
 - [HW 1](APPM4650_Fall20_Homework01.pdf) on Ch 1 is due Friday Sept 4 2020 at 5 PM on Gradescope [topic: conditioning, stability and floating point]
 - [HW 2](APPM4650_Fall20_Homework02.pdf) on Ch 2 is due Friday Sept 11 2020 at 5 PM on Gradescope [topic: bisection and fixed-point iterations]
 - [HW 3](APPM4650_Fall20_Homework03.pdf) on Ch 2 is due Friday Sept 18 2020 at 5 PM on Gradescope [topic: Newton's method]
+- [HW 4](APPM4650_Fall20_Homework04.pdf) on Ch 3 is due Monday Oct 5 2020 at midnight PM on Gradescope [topic: splines]
 
 ## FAQ
 
@@ -32,7 +33,7 @@ or to look at solution manuals
 
 ### Python
 
-Tips for exporting jupyter notebook code to a PDF: 
+Tips for exporting jupyter notebook code to a PDF:
 
 - You can try this [Notebook to PDF conversion website](https://htmtopdf.herokuapp.com/ipynbviewer/) that some of our students have had good luck with
 
