@@ -15,7 +15,7 @@ Most of the homework assignments are here, but homework **solutions** are on Can
 
 **Gradescope** has a [submission guide](https://gradescope-static-assets.s3.amazonaws.com/help/submitting_hw_guide.pdf) that recommends software for your phone to take pictures of written homework and convert it to a PDF (your final submission to Gradescope must be a PDF).
 
-Note: the links in the PDFs will not work if you view the PDF on github, but if you open the PDF in its own tab, or download it, all the links shoudl work.
+Note: the links in the PDFs will not work if you view the PDF on github, but if you open the PDF in its own tab, or download it, all the links should work.
 
 **Collaboration**: Collaboration with your fellow students is OK and in fact recommended, although direct copying is not allowed.  Please write down the names of the students that you worked with.
 
