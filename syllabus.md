@@ -116,12 +116,23 @@ i.e., what we actually covered.  Topics listed for dates in the future are just 
   - [Ch3_PolynomialInterpolation.ipynb](Demos/Ch3_PolynomialInterpolation.ipynb) demo, which also links to other demos
 
 ### Week 5, Sep 21-24 2020. Chapter 3
-- Mon: "Divided Differences, part 2" (18 min; [same notes as before](Notes/Ch3_DividedDifferences.pdf))
-  - demo TBD
-- Wed: TBD
+- Mon: "Divided Differences, part 2" (18 min; [same notes as before](Notes/Ch3_DividedDifferences.pdf)) and "Hermite Interpolation" (14 min; [notes](Notes/Ch3_Hermite.pdf))
+  - Demo: continue demo from last Friday
+- Wed: "Splines" (part 1, 15 min; part 2, 8 min; part 3, 24 min; [notes](Notes/Ch3_Splines.pdf) )
+  - No Demo, but there's a [midterm review](Notes/Review_Midterm1.pdf) with [answers](Notes/Review_Midterm1.soln.pdf)
 - Fri: Review / Q&A for midterm.  Take-home midterm handed out
+  - The [written part of the midterm](Exams/Midterm1.pdf) (2 hours, open note, open book), and there was a 45 min true/false or multiple choice section we took via Canvas
 
 ### Week 6, Sep 28-Oct 2 2020. Chapter 4
+- Mon: "Intro to numerical differentiation" (19 min; [notes](Notes/Ch4_FiniteDifferencesIntro.pdf))
+  - Demo: [splines](Demos/Ch3_Splines.ipynb)
+- Wed: "Finite differences" (32 min; [notes](Notes/Ch4_FiniteDifferences_more.pdf))
+  - Demo: [finite differences](Demos/Ch4_FiniteDifferences.ipynb) which we did together in lecture
+- Fri: "Richardson extrapolation" (23 min; [notes](Notes/Ch4_RichardsonExtrapolation.pdf))
+  - Demo: none
+
+### Week 7, Oct 5-Oct 9 2020. Chapter 4.
+- Mon: integration
 
 
 
