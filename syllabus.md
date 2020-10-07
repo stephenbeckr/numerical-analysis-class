@@ -132,7 +132,10 @@ i.e., what we actually covered.  Topics listed for dates in the future are just 
   - Demo: none
 
 ### Week 7, Oct 5-Oct 9 2020. Chapter 4.
-- Mon: integration
+- Mon: "Intro to quadrature" (28 min; [notes](Notes/Ch4_quadrature_intro.pdf)), and "Newton Cotes formula" (2 videos, 12 min each; [notes](Notes/Ch4_quadrature_NewtonCotes.pdf))
+  - Demo: [Misc_speedExamples.ipynb](Demos/Misc_speedExamples.ipynb) and [Ch4_RichardsonExtrapolation](Demos/Ch4_RichardsonExtrapolation.ipynb)
+- Wed: "Composite quadrature" (29 min; [notes](Notes/Ch4_quadrature_composite.pdf))
+  - Demo: integration
 
 
 
