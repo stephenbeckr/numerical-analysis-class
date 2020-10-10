@@ -7,7 +7,7 @@
 The best way to study is doing practice problems.  Below are links to similar classes that have problems sets and/or exams (sometimes with solutions, sometimes without):
 
 
-- CU's APPM 2360 from Fall 2013, taught by Chris Ketelsen. Homeworks (no solutions) are available below:
+- CU's APPM 4650 from Fall 2013, taught by Chris Ketelsen. Homeworks (no solutions) are available below:
   - [HW 1](https://www.colorado.edu/amath/sites/default/files/attached-files/hmwk1_0.pdf) on floating point numbers, stability of the quadratic equation, the bisection method, and convergence.
   - [HW 2](https://www.colorado.edu/amath/sites/default/files/attached-files/hmwk2_0.pdf) on fixed-point iterations and Newton's method
   - [HW 3](https://www.colorado.edu/amath/sites/default/files/attached-files/hmwk3_0.pdf) on interpolation
