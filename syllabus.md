@@ -123,7 +123,7 @@ i.e., what we actually covered.  Topics listed for dates in the future are just 
 - Fri: Review / Q&A for midterm.  Take-home midterm handed out
   - The [written part of the midterm](Exams/Midterm1.pdf) (2 hours, open note, open book), and there was a 45 min true/false or multiple choice section we took via Canvas
 
-### Week 6, Sep 28-Oct 2 2020. Chapter 4
+### Week 6, Sep 28-Oct 2 2020. Chapter 4 (finite differences)
 - Mon: "Intro to numerical differentiation" (19 min; [notes](Notes/Ch4_FiniteDifferencesIntro.pdf))
   - Demo: [splines](Demos/Ch3_Splines.ipynb)
 - Wed: "Finite differences" (32 min; [notes](Notes/Ch4_FiniteDifferences_more.pdf))
@@ -131,11 +131,16 @@ i.e., what we actually covered.  Topics listed for dates in the future are just 
 - Fri: "Richardson extrapolation" (23 min; [notes](Notes/Ch4_RichardsonExtrapolation.pdf))
   - Demo: none
 
-### Week 7, Oct 5-Oct 9 2020. Chapter 4.
+### Week 7, Oct 5-Oct 9 2020. Chapter 4 (numerical integration)
 - Mon: "Intro to quadrature" (28 min; [notes](Notes/Ch4_quadrature_intro.pdf)), and "Newton Cotes formula" (2 videos, 12 min each; [notes](Notes/Ch4_quadrature_NewtonCotes.pdf))
-  - Demo: [Misc_speedExamples.ipynb](Demos/Misc_speedExamples.ipynb) and [Ch4_RichardsonExtrapolation](Demos/Ch4_RichardsonExtrapolation.ipynb)
+  - Demo: [Misc_speedExamples.ipynb](Demos/Misc_speedExamples.ipynb) and [Ch4_RichardsonExtrapolation.ipynb](Demos/Ch4_RichardsonExtrapolation.ipynb)
 - Wed: "Composite quadrature" (29 min; [notes](Notes/Ch4_quadrature_composite.pdf))
-  - Demo: integration
+  - Demo: [Ch4_integration.ipynb](https://github.com/stephenbeckr/numerical-analysis-class/blob/master/Demos/Ch4_integration.ipynb)
+- Fri: "Romberg integration" (31 min; [notes](Notes/Ch4_RombergIntegrationEulerMacLaurin.pdf))
+  - Demo: [Ch4_CompositeIntegration.ipynb](Demos/Ch4_CompositeIntegration.ipynb)
+
+### Week 8, Oct 12-Oct 16 2020. Chapter 4 (numerical integration)
+- Mon: 
 
 
 
