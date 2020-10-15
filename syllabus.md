@@ -114,6 +114,10 @@ i.e., what we actually covered.  Topics listed for dates in the future are just 
   - [Ch2_AitkenExtrapolation.ipynb](Demos/Ch2_AitkenExtrapolation.ipynb) demo
 - Fri: "Barycentric Interpolation formula" (17 min video; [same notes as before](Notes/Ch3_LagrangeAndBarycentricInterpolation.pdf)) and "Lagrange Interpolation Error Bounds" (10 min video; [same notes as before](Notes/Ch3_LagrangeAndBarycentricInterpolation.pdf)) and "Divided Differences, part 1" (11.5 min video; [notes](Notes/Ch3_DividedDifferences.pdf))
   - [Ch3_PolynomialInterpolation.ipynb](Demos/Ch3_PolynomialInterpolation.ipynb) demo, which also links to other demos
+  - Further resources on Lagrange interpolation:
+    - [8 min youtube video](https://www.youtube.com/watch?v=_zK_KhHW6og) (nice handwriting)
+    - [42 min youtube video](https://www.youtube.com/watch?v=M8hF7QChkSY) (with Vandermonde matrix and divided differences) -- this is a standard classroom blackboard lecture from Wen Shen at Penn State (textbook author, nice handwriting)
+    - [13 min youtube video](https://www.youtube.com/watch?v=C1Jijw3VaI0)
 
 ### Week 5, Sep 21-24 2020. Chapter 3
 - Mon: "Divided Differences, part 2" (18 min; [same notes as before](Notes/Ch3_DividedDifferences.pdf)) and "Hermite Interpolation" (14 min; [notes](Notes/Ch3_Hermite.pdf))
@@ -140,7 +144,18 @@ i.e., what we actually covered.  Topics listed for dates in the future are just 
   - Demo: [Ch4_CompositeIntegration.ipynb](Demos/Ch4_CompositeIntegration.ipynb)
 
 ### Week 8, Oct 12-Oct 16 2020. Chapter 4 (numerical integration)
-- Mon: 
+- Mon: "Adaptive integration" (28 min; [notes](Notes/Ch4_AdaptiveIntegration.pdf))
+  - Demo: [Ch4_RombergIntegration.ipynb](Demos/Ch4_RombergIntegration.ipynb)
+- Wed: "Gaussian quadrature" (2 videos, 21 min and 32 min; [notes](Notes/Ch4_GaussianQuadrature.pdf))
+  - Demo: [Ch4_AdaptiveIntegration.ipynb](Demos/Ch4_AdaptiveIntegration.ipynb)
+  - Further resources on Gaussian quadrature:
+    - a 4 part youtube video series:
+          1. [Preview](https://www.youtube.com/watch?v=k-yUdqRXijo)
+          2. [Part 1: Legendre polynomials](https://www.youtube.com/watch?v=65zwMgGZnUs)
+          3. [Part 2: Determining the weights](https://www.youtube.com/watch?v=nQZYBWB6q_k)
+          4. [Part 3: Explanation](https://www.youtube.com/watch?v=cKKrGr93f6c)
+    - Lloyd Trefethen, "[Is Gauss Quadrature Better than Clenshaw–Curtis?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.4174&rep=rep1&type=pdf)"", SIAM Review 50(1), pp. 67–87 (2008)
+- Fri: TBD
 
 
 
