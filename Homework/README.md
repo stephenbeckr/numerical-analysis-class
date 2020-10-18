@@ -9,7 +9,8 @@ Most of the homework assignments are here, but homework **solutions** are on Can
 - [HW 3](APPM4650_Fall20_Homework03.pdf) on Ch 2 is due Friday Sept 18 2020 at 5 PM on Gradescope [topic: Newton's method]
 - [HW 4](APPM4650_Fall20_Homework04.pdf) on Ch 3 is due Monday Oct 5 2020 at midnight PM on Gradescope [topic: splines]
 - [HW 5](APPM4650_Fall20_Homework05.pdf) on Ch 4 is due Saturday Oct 10 2020 at midnight PM on Gradescope [topic: finite differences]
-- [HW 5](APPM4650_Fall20_Homework06.pdf) on Ch 5 is due Saturday Oct 17 2020 at midnight PM on Gradescope [topic: numerical integration]
+- [HW 6](APPM4650_Fall20_Homework06.pdf) on Ch 5 is due Saturday Oct 17 2020 at midnight PM on Gradescope [topic: numerical integration]
+- [HW 7](APPM4650_Fall20_Homework07.pdf) on Ch 5 is due Saturday Oct 24 2020 at midnight PM on Gradescope [topic: advanced numerical integration]
 
 ## FAQ
 
