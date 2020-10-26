@@ -140,6 +140,7 @@ i.e., what we actually covered.  Topics listed for dates in the future are just 
   - Demo: [Misc_speedExamples.ipynb](Demos/Misc_speedExamples.ipynb) and [Ch4_RichardsonExtrapolation.ipynb](Demos/Ch4_RichardsonExtrapolation.ipynb)
 - Wed: "Composite quadrature" (29 min; [notes](Notes/Ch4_quadrature_composite.pdf))
   - Demo: [Ch4_integration.ipynb](https://github.com/stephenbeckr/numerical-analysis-class/blob/master/Demos/Ch4_integration.ipynb)
+  - Note: we are *not* covering Gregory's method; if you're interested, see Bengt Fornberg's talk [Gregory formulas and improving on the Trapezoidal rule](https://www.colorado.edu/amath/sites/default/files/attached-files/2019_unm_0.pdf)
 - Fri: "Romberg integration" (31 min; [notes](Notes/Ch4_RombergIntegrationEulerMacLaurin.pdf))
   - Demo: [Ch4_CompositeIntegration.ipynb](Demos/Ch4_CompositeIntegration.ipynb)
 
@@ -155,34 +156,70 @@ i.e., what we actually covered.  Topics listed for dates in the future are just 
           3. [Part 2: Determining the weights](https://www.youtube.com/watch?v=nQZYBWB6q_k)
           4. [Part 3: Explanation](https://www.youtube.com/watch?v=cKKrGr93f6c)
     - Lloyd Trefethen, "[Is Gauss Quadrature Better than Clenshaw–Curtis?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.4174&rep=rep1&type=pdf)"", SIAM Review 50(1), pp. 67–87 (2008)
-- Fri: TBD
+    - Topics in our class: Gauss-Legendre, Gauss-Laguerre, Gauss-Hermite; *skip* Chebyshev-Gauss. Note that we are *not* covering Clenshaw-Curtis
+- Fri: "Multiple Integrals" (26 min; [notes](Notes/Ch4_MultipleIntegrals.pdf))
+  - Demo: [Ch4_GaussianQuadrature.ipynb](Demos/Ch4_GaussianQuadrature.ipynb)
+
+### Week 9, Oct 19-Oct 23 2020. Chapter 4 (numerical integration) and start Ch 5 (ODE solvers)
+- Mon: "Improper Integrals" (40 min; [notes](Notes/Ch4_ImproperIntegrals.pdf))
+  - Demo: [Ch4_MultidimensionalIntegrals.ipynb](Demos/Ch4_MultidimensionalIntegrals.ipynb)
+- Wed: "Introduction to ODEs" (44 min; [notes](Notes/Ch5_IntroToODEs.pdf))
+  - Demo: [Ch4_ImproperIntegrals.ipynb](Demos/Ch4_ImproperIntegrals.ipynb)
+  - We are *not* covering PDEs, implicit ODEs, nor [DAEs](https://en.wikipedia.org/wiki/Differential-algebraic_system_of_equations), but we are covering *systems of ODEs*
+- Fri: "Euler's Method" (2 videos, intro and error analysis, 10 and 35 min; [notes](https://github.com/stephenbeckr/numerical-analysis-class/blob/master/Notes/Ch5_EulersMethod.pdf))
+  - Demo: [Ch5_ODEs.ipynb](Demos/Ch5_ODEs.ipynb)
+
+
+### Week 9, Oct 26-Oct 3 2020. Chapter 5 (ODE solvers) and midterm
+- Mon: "Systems of ODEs" (32 min; [notes](Notes/Ch5_SystemsOfODEs.pdf))
+  - Demo: [Ch5_EulersMethod.ipynb](Demos/Ch5_EulersMethod.ipynb)
+- Wed: "Higher-order Taylor Methods" and local truncation error (26 min; notes)
+  - Demo: TBD
+- Fri: Review / Q&A for midterm 2. Take-home midterm handed out
+  - The written part of the midterm (2 hours, open note, open book), and there is a 45 min true/false or multiple choice section we take on Canvas
 
 
 
 
 # Subjects on the midterms and final
 
+You might try the [midterm study guide jupyter notebook](https://github.com/cu-numcomp/numcomp-class/blob/master/Midterm-StudyGuide.ipynb) used for the CS department's version of this class.
+
 ## Midterm 1
 The high-level set of topics is anything we've discussed in class up to and including the "Divided Differences" video of Monday Sept 21.
 
 Below are specific chapters (in Burden and Faires 9th or 10th edition) that are covered:
-- Chapter 1
+- Chapter 1 (preliminaries and error analysis)
   - 1.1 review of calc
   - 1.2 round-off errors
   - 1.3 algorithms and convergence, in particular big-O notation
-- Chapter 2
+- Chapter 2 (scalar root-finding)
   - 2.1 bisection method
   - 2.2 fixed point iteration
   - 2.3 Newton's method
   - 2.4 error analysis for iterative methods
   - 2.5 accelerating convergence [*skip* Steffensen's method]
   - 2.6 zeros of polynomials [fundamental theorem of algebra, but *skip* Horner's method as presented in the book (but you should know it as presented in the notes and HW), and *skip* Muller's method]
-- Chapter 3
+- Chapter 3 (interpolation and polynomial approximation)
   - 3.1 interpolation and the Lagrange polynomial (*skip* 3.2 on Neville's method)
   - 3.3 divided differences
 
 ## Midterm 2
-TBD
+- Chapter 3 (interpolation and polynomial approximation)
+  - 3.4 Hermite Interpolation
+  - 3.5 cubic splines
+- Chapter 4 (numerical differentiation and integration)
+  - 4.1 intro: basic concepts (e.g., using interpolation), finite difference formulas
+  - 4.2 Richardson extrapolation
+  - 4.3 numerical integration (quadrature), Newton-Cotes formulas
+  - 4.4 composite quadrature
+  - 4.5 Romberg integration
+  - 4.6 Gaussian quadrature (Gauss-Legendre, Gauss-Laguerre, Gauss-Hermite; *skip* Chebyshev-Gauss). Note that we are *not* covering Clenshaw-Curtis
+  - 4.7 multiple (higher-dimension) integrals
+  - 4.8 improper integrals
+- Chapter 5 (IVPs for ODEs)
+  - 5.1 intro and theory for IVPs and ODEs
+  - 5.2 Euler's method
 
 ## Final Exam
 TBD
