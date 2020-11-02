@@ -4,7 +4,7 @@ This supplements the hand-written notes with some links to further information
 
 ## Implicit ODEs and DAEs
 
-The standard first-order ODE is $y' = f(t,y)$, but there are **implicit** ODEs that are written in the form $g(t,y,y')=0$, and one could in theory solve for $y'$ (e.g., if the conditions of the [implicit function theorem](https://en.wikipedia.org/wiki/Implicit_function_theorem) are met) and rewrite this as $y'=f(t,y)$ but it may be very inconvenient to do so.
+The standard first-order ODE is $$y' = f(t,y)$$, but there are **implicit** ODEs that are written in the form $g(t,y,y')=0$, and one could in theory solve for $y'$ (e.g., if the conditions of the [implicit function theorem](https://en.wikipedia.org/wiki/Implicit_function_theorem) are met) and rewrite this as $y'=f(t,y)$ but it may be very inconvenient to do so.
 
 For example, $(y')^2 = y + t$ can be written as $g(t,y,y')=0$ easily, but solving for $y'=f(t,y)$ is complicated because sometimes $y' = +\sqrt{y+t}$ and sometimes $y' = -\sqrt{y+t}$.
 
