@@ -40,6 +40,15 @@ ode113 is variable order Adams-Bashforth-Moulton PECE solver. It may be more eff
 
 The most current documentation is at the [Mathworks "ODE" help page](https://www.mathworks.com/help/matlab/ordinary-differential-equations.html) and the [Choose an ODE Solver page](https://www.mathworks.com/help/matlab/math/choose-an-ode-solver.html), and their help pages also discuss [Matlab solvers for DAEs](https://www.mathworks.com/help/matlab/math/solve-differential-algebraic-equations-daes.html), which requires not just a solver, but the `decic` function to find consistent initial conditions.
 
+### Learning more about MATLAB's ODE solvers
+- Shampine and Reichelt, "The MATLAB ODE Suite", SIAM J. Scientific Computing 18(1) 1997, [pdf (bad fonts)](https://people.eecs.berkeley.edu/~wkahan/Math128/ODEsuite.pdf) or [pdf (nice fonts, but paywall if not on CU campus)](https://epubs.siam.org/doi/pdf/10.1137/S1064827594276424) has detailed information on Matlab's solvers
+- ["Behind and Beyond the MATLAB ODE Suite"](http://image.sciencenet.cn/olddata/kexue.com.cn/bbs/upload/16391Behind%20and%20Beyond%20the%20MATLAB%20ODE.pdf) from 2000 by Ashino, Nagase and Vaillancourt seems to be a review paper that goes over both the MATLAB solvers and gives a brief review of ODE solvers in general (at the level of an undergraduate numerics course like ours)
+
+## Implementations to learn from
+The packages mentioned earlier were for just using the IVP solver, but if you want to understand how the code works, those implementations are complicated.
+
+A nice easy-to-follow implementation of the RK23 method, showing how to do error estimation and using the FSAL (First Same As Last) property, is in this [rk23.m](https://github.com/tobydriscoll/fnc-extras/blob/master/fnc/rk23.m) file from the [Driscoll and Braun textbook](http://tobydriscoll.net/project/fnc/). They also have a Python version in their [FNC06.py (chapter 6)](https://github.com/tobydriscoll/fnc-extras/blob/master/python/FNC06.py) python module, and you can see how to use it in their [Chapter 6 jupyter notebook demo](https://github.com/tobydriscoll/fnc-extras/blob/master/python/Chapter06.ipynb)
+
 ## Examples of ODEs
 
 - [Synchronization of metronomes](http://www.math.pitt.edu/~bard/classes/mth3380/syncpapers/metronome.pdf), J. Pantaleone, Am. J. Phys. 70 (10), October 2002. Many good videos of this on youtube, e.g., this [2 min Harvard Natural Sciences Lecture](https://youtu.be/Aaxw4zbULMs) and this [1 min UCLA video](https://youtu.be/T58lGKREubo)
