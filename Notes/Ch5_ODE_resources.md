@@ -2,6 +2,9 @@
 
 This supplements the hand-written notes with some links to further information
 
+## More on Runge-Kutta
+Read the [scholarpedia article on Runge-Kutta](http://www.scholarpedia.org/article/Runge-Kutta_methods) written in 2007 by [John Butcher](https://en.wikipedia.org/wiki/John_C._Butcher) himself.
+
 ## Implicit ODEs and DAEs
 
 The standard first-order ODE is $$y' = f(t,y)$$, but there are **implicit** ODEs that are written in the form $g(t,y,y')=0$, and one could in theory solve for $y'$ (e.g., if the conditions of the [implicit function theorem](https://en.wikipedia.org/wiki/Implicit_function_theorem) are met) and rewrite this as $y'=f(t,y)$ but it may be very inconvenient to do so.
