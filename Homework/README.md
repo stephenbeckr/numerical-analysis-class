@@ -12,6 +12,7 @@ Most of the homework assignments are here, but homework **solutions** are on Can
 - [HW 6](APPM4650_Fall20_Homework06.pdf) on Ch 4 is due Saturday Oct 17 2020 at midnight PM on Gradescope [topic: numerical integration]
 - [HW 7](APPM4650_Fall20_Homework07.pdf) on Ch 4 is due Saturday Oct 24 2020 at midnight PM on Gradescope [topic: advanced numerical integration]
 - [HW 8](APPM4650_Fall20_Homework08.pdf) on Ch 5 is due Saturday Nov 7 2020 at midnight PM on Gradescope [topic: ODEs and IVPs]
+- [HW 9](APPM4650_Fall20_Homework09.pdf) on Ch 5 is due Saturday Nov 14 2020 at midnight PM on Gradescope [topic: ODEs and IVPs]
 
 ## FAQ
 
