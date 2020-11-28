@@ -14,6 +14,7 @@ Most of the homework assignments are here, but homework **solutions** are on Can
 - [HW 8](APPM4650_Fall20_Homework08.pdf) on Ch 5 is due Saturday Nov 7 2020 at midnight PM on Gradescope [topic: ODEs and IVPs]
 - [HW 9](APPM4650_Fall20_Homework09.pdf) on Ch 5 is due Saturday Nov 14 2020 at midnight PM on Gradescope [topic: ODEs and IVPs, RK]
 - [HW 10](APPM4650_Fall20_Homework10.pdf) on Ch 5 is due Saturday Nov 21 2020 at midnight PM on Gradescope [topic: ODEs and IVPs, multi-step, stability]
+- [HW 11](APPM4650_Fall20_Homework11.pdf) on Ch 5 is due Saturday Dec 5 2020 at midnight PM on Gradescope [topic: absolute stability, Gaussian Elimination]
 
 ## FAQ
 
