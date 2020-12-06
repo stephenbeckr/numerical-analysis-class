@@ -212,6 +212,8 @@ i.e., what we actually covered.  Topics listed for dates in the future are just 
 
 You might try the [midterm study guide jupyter notebook](https://github.com/cu-numcomp/numcomp-class/blob/master/Midterm-StudyGuide.ipynb) used for the CS department's version of this class.
 
+Both midterm exams were take-home exams, self-timed with generous time limits. They had true-false/multiple-choice component via Canvas (closed note, closed book) for 45 min, and then 2 hours to solve word problems (scanned, uploaded to Gradescope) which was open note and open book but closed internet.  The exams are posted at [Exams](./Exams); solutions are available on Canvas.
+
 ## Midterm 1
 The high-level set of topics is anything we've discussed in class up to and including the "Divided Differences" video of Monday Sept 21.
 
@@ -244,9 +246,34 @@ Below are specific chapters (in Burden and Faires 9th or 10th edition) that are 
   - 4.6 Gaussian quadrature (Gauss-Legendre, Gauss-Laguerre, Gauss-Hermite; *skip* Chebyshev-Gauss). Note that we are *not* covering Clenshaw-Curtis
   - 4.7 multiple (higher-dimension) integrals
   - 4.8 improper integrals
-- Chapter 5 (IVPs for ODEs)
+- Chapter 5 (numerical methods for IVPs/ODEs)
   - 5.1 intro and theory for IVPs and ODEs
   - 5.2 Euler's method
 
 ## Final Exam
-TBD
+The final is cumulative, but with extra emphasis on the following topics
+
+The most important topics are marked with an asterisk*
+- Chapter 5 (numerical methods for IVPs/ODEs)
+  - 5.3 higher-order Taylor Methods
+  - 5.4 *Runge-Kutta Methods
+  - 5.5 error control and the Runge-Kutta-Fehlberg method (i.e., embedded formula)
+  - 5.6 *multistep methods
+  - 5.7 variable step-size Multistep methods
+  - 5.8 extrapolation methods
+  - 5.9 *higher-order equations and systems of ODEs
+  - 5.10 *stability (zero-stability/root-condition)
+  - 5.11 *stiff ODEs (absolute stability)
+- Chapter 6 (solving linear systems of equations)
+  - 6.1 *linear systems of equations
+  - 6.2 pivoting strategies
+  - 6.3 *linear algebra and matrix inversion (this should be review, but is's very important, so it has an asterisk)
+  - 6.4 determinant of a matrix (we didn't do a lecture on this but it's review from your linear algebra class, so you should make sure you're familiar with it)
+  - 6.5 *matrix factorization (LU factorization)
+  - 6.6 special types of matrices (LDL, Cholesky, tridiagonal systems)
+  - You should know the complexity of matrix multiplication
+  - You should have an understanding of LAPACK and BLAS
+  - The condition number of a matrix and its relevance
+  - We are *not* testing on least-squares methods
+
+Details on the final exam: unlike the midterms, this is not take-home.  We'll have a true-false/multiple-choice section on Canvas, then a written section that you'll scan and upload to Gradescope. There are 2.5 hours for the exam. We'll do this via zoom and you need your webcam on. We'll also use Proctorio, so make sure you have Chrome installed as well as the Proctorio Chrome extension.  This is an open-note exam and you can use your notes, my notes, and the book, but no internet is allowed (other than Canvas/Gradescope).
