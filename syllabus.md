@@ -238,7 +238,7 @@ In chapter 6, we're roughly covering the material from the book, but adding more
   - The [Chemical & Physical Oceanography group](https://www.colorado.edu/atoc/research/chemical-physical-oceanography) in the ATOC department (and they involve many researchers outside ATOC too, e.g., applied math)
 - Wed: "LU factorization details: pivoting" (26 min) and "LU factorization details: block factorization and special types of matrices" (19 min); both videos have these [notes](Notes/Ch6_LU_details_pivoting_Cholesky.pdf)
   - Demo: [Ch6_LU_vs_Cholesky.ipynb](Demos/Ch6_LU_vs_Cholesky.ipynb) (short)
-- Fri: "Conditioning of solving linear systems" (20 min; [notes](Notes/Ch6_ConditioningOfLinearSystems.pdf)) and "Least Squares" (16 min; normal equations and QR; [notes](Notes/Ch6_LeastSquares.pdf))
+- Fri: "Conditioning of solving linear systems" (20 min; introduces the spectra norm; [notes](Notes/Ch6_ConditioningOfLinearSystems.pdf)) and "Least Squares" (16 min; normal equations and QR; [notes](Notes/Ch6_LeastSquares.pdf))
   - Demo: [Ch6_conditioning_LeastSquares.ipynb](Demos/Ch6_conditioning_LeastSquares.ipynb) (long) and [Ch6_RepeatedSolves.ipynb](Demos/Ch6_RepeatedSolves.ipynb) (short)
 
 
