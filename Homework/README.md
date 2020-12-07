@@ -39,6 +39,12 @@ or to look at solution manuals
 **Windows** there are [lists of free web- and desktop-based software](https://superuser.com/a/34294), but [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) is one of the most classic and respected (no viruses). I haven't used PDFtk on Windows, but the website claims they have a GUI; or if you don't like their GUI, try a [3rd party GUI that uses PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/).
 
 ### Python
+For overall Python, and numpy in particular, Matlab users might like [NumPy for Matlab users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html).
+
+For **plotting** in Python using Matplotlib, try these [plotting cheatsheets](https://github.com/matplotlib/cheatsheets) and [controlling figure aesthetics](https://seaborn.pydata.org/tutorial/aesthetics.html) with seaborn.
+
+
+#### Jupyter
 
 Tips for exporting jupyter notebook code to a PDF:
 
@@ -57,9 +63,13 @@ The downside of `nbconvert` is that images are saved as png, not pdf, so fonts d
 
 If you run jupyter locally, you might be able to run `nbconvert` without using the command line; go to "Download" the "PDF via LaTeX".
 
-For **plotting** in Python using Matplotlib, try these [plotting cheatsheets](https://github.com/matplotlib/cheatsheets) and [controlling figure aesthetics](https://seaborn.pydata.org/tutorial/aesthetics.html) with seaborn.
+#### Python source code (not Jupyter)
+The *non-preferred* ways are (1) screenshot of your editor (not so nice since it's an image not text, but at least you get syntax color highlighting), and (2) export from a text editor to PDF (not so nice if you don't get syntax color highlighting).
 
-For overall Python, and numpy in particular, Matlab users might like [NumPy for Matlab users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html).
+It's not nice to the graders to submit code without syntax color highlighting!
+
+Better ways: it depends on your system and editor, but there are many ways. For example, this [stackoverflow 'printing python code to PDF'](https://stackoverflow.com/q/20412038) offers several suggestions. For example, since I already use `vim` and its setup with syntax highlighting, I can do [this answer](https://stackoverflow.com/a/20412421) and do `vim abc.py -c ":hardcopy > abc.ps" -c ":q"` followed by `ps2pdf abc.ps abc.pdf` -- no extra software needed!
+
 
 ### Matlab
 
