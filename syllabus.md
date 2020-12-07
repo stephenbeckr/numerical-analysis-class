@@ -300,8 +300,8 @@ The most important topics are marked with an asterisk*
   - 5.4 *Runge-Kutta Methods
   - 5.5 error control and the Runge-Kutta-Fehlberg method (i.e., embedded formula)
   - 5.6 *multistep methods
-  - 5.7 variable step-size Multistep methods
-  - 5.8 extrapolation methods
+  - 5.7 variable step-size Multistep methods (covered only very briefly)
+  - 5.8 extrapolation methods (covered only very briefly)
   - 5.9 *higher-order equations and systems of ODEs
   - 5.10 *stability (zero-stability/root-condition)
   - 5.11 *stiff ODEs (absolute stability)
