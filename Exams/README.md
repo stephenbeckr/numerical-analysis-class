@@ -2,13 +2,17 @@
 
 - [Midterm1](Midterm1.pdf) (for topics covered, see this section of the [syllabus](../syllabus.md#midterm-1))
 - [Midterm2](Midterm2.pdf) (for topics covered, see this section of the [syllabus](../syllabus.md#midterm-2))
-- [Final](Final.pdf) (for topics covered, see this section of the [syllabus](../syllabus.md#final-1))
+- [Final (sample, with instructions)](FinalExam.pdf) (for topics covered, see this section of the [syllabus](../syllabus.md#final-1))
+    - [Final exam, Thursday](FinalExam.Thurs.pdf) for section 002
+    - [Final exam, Saturday](FinalExam.Sat.pdf) for section 001
 
 The midterms were take-home exams but still timed; they had an open and closed note/book portion.
 
 The final is proctored via zoom, 2.5 hours, open note/book.
 
 See the [StudyMaterials](./StudyMaterials) folder for study guides created for this semester as well as study guides from previous fall semesters
+
+Solutions are available only on Canvas
 
 
 ## Study aids
