@@ -7,6 +7,7 @@ This semester, the course is remote-only due to COVID-19
 Focuses on numerical solution of nonlinear equations, interpolation, methods in numerical integration, numerical solution of linear systems, and matrix eigenvalue problems. Stresses significant computer applications and software. Department enforced prerequisite: knowledge of a programming language.
 
 Requires a **prerequisite** course of MATH 3430 or APPM 2360 (these are ODE or ODE + linear algebra courses) and APPM 3310 (matrix methods), all with a minimum grade of C-.  We'll use a lot of math from your previous courses, especially:
+
 - lots of calculus, including: Taylor's theorem, fundamental theorem of calculus, IVT, EVT, MVT, sequences and series, limits, continuity, Riemann sums, L'Hopital's rule
 - Facts about polynomial roots (fundamental theorem of algebra); complex numbers
 - Vector spaces, subspaces, bases
@@ -254,6 +255,7 @@ The high-level set of topics is anything we've discussed in class up to and incl
 See the [Midterm 1 review](Notes/Review_Midterm1.pdf) and [Midterm 1 review solutions](Notes/Review_Midterm1.soln.pdf)
 
 Below are specific chapters (in Burden and Faires 9th or 10th edition) that are covered:
+
 - Chapter 1 (preliminaries and error analysis)
   - 1.1 review of calc
   - 1.2 round-off errors
@@ -295,6 +297,7 @@ The final is cumulative, but with extra emphasis on the following topics
 See the [Final Exam review](Notes/Review_Final.pdf) and [Final Exam review solutions](Notes/Review_Final.soln.pdf); see also the conceptual review sheet "KeyIdeas_DriscollBraun.pdf" on canvas
 
 The most important topics are marked with an asterisk*
+
 - Chapter 5 (numerical methods for IVPs/ODEs)
   - 5.3 higher-order Taylor Methods
   - 5.4 *Runge-Kutta Methods
